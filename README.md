@@ -62,7 +62,7 @@ import (
     "context"
     "errors"
     "fmt"
-    "github.com/your-username/gowork"
+    "github.com/prakashpandey/gowork"
 )
 
 func main() {
